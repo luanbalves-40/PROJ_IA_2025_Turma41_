@@ -5,10 +5,10 @@
 ## Equipe e Papéis
 | Integrante | RA | Papel principal | Principais entregas (commits/arquivos) |
 |------------|----|------------------|----------------------------------------|
-| Ayrton senna cabani bastos | 2225109182 | Consultoria e programação
-| Giovanne furtado fischer | 2225106324 | Gerêcia e programação 
-| Luan benedito alves | 2225202024 | Documentação e README.md
-| Malcolm agostinho mendes | 2225107711 | Edição de video
+| Ayrton Senna Cabani Bastos | 2225109182 | Consultoria e programação
+| Giovanne Furtado Fischer | 2225106324 | Gerência e programação 
+| Luan Benedito Alves | 2225202024 | Documentação e README.md
+| Malcolm Agostinho Mendes | 2225107711 | Edição de video
 
 ---
 
@@ -26,7 +26,7 @@ retornar uma recomendação precisa e útil. Isso envolve entender o contexto, f
 e apresentar uma opção clara e prática. Em outras palavras, a IA funciona quando entrega exatamente o que
 o usuário precisa, no menor tempo possível e com o máximo de eficiência.
 
-**Métrica(s) alvo:** defina 1 principal e 1 secundária (ex.: F1 e Acurácia; RMSE e MAE; Silhouette etc.).
+**Métrica(s) alvo:** Taxa de Respostas Válidas e Taxa de Defeitos
 
 ---
 
