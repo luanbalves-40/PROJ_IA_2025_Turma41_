@@ -31,14 +31,13 @@ o usuário precisa, no menor tempo possível e com o máximo de eficiência.
 ---
 
 ## 2. Abordagem de IA
-- **Tipo de IA/ML**: (ex.: classificação com árvore de decisão / CNN / LSTM / busca A* / fuzzy etc.)
-- **Justificativa técnica**: por que esta técnica atende ao problema?
-- **Semente aleatória**: `42` (ou outra, mas fixe e cite aqui).
+- **Tipo de IA/ML**: Mistral AI NeMo, um LLM pré-treinado.
+- **Justificativa técnica**: O NeMo é um modelo leve e rápido porém com treinamento para responder grande parte das perguntas culinárias, principalmente com o uso da biblioteca DDGS.
 
 ---
 
 ## 3. Dados
-- **Origem**: link e licença (se público) OU **fictício** (como foi gerado).
+- **Origem**: https://openrouter.ai/mistralai/mistral-nemo:free
 - **Esquema**: liste as colunas (nome, tipo, significado).
 - **Cuidados éticos/privacidade**: se houver.
 - **Tamanho aproximado**: n linhas × m colunas.
