@@ -5,7 +5,7 @@
 ## Equipe e Papéis
 | Integrante | RA | Papel principal | Principais entregas (commits/arquivos) |
 |------------|----|------------------|----------------------------------------|
-| Ayrton senna cabani bastos | 222510918 | Consultoria e programação
+| Ayrton senna cabani bastos | 2225109182 | Consultoria e programação
 | Giovanne furtado fischer | 2225106324 | Gerêcia e programação 
 | Luan benedito alves | 2225202024 | Documentação e README.md
 | Malcolm agostinho mendes | 2225107711 | Edição de video
