@@ -98,10 +98,10 @@ Limitações conhecidas e possíveis melhorias
 - Link: https://youtu.be/xsYj-2MXh6I
 
 - Linha do tempo:
-00:00 - Apresentação e Introdução
-1:55 - Explicação da Função perguntar_openrouter
-5:25 - Explicação das Funções de Pesquisa
-6:49 - Loop Final e Encerramento
+- 00:00 - Apresentação e Introdução
+- 1:55 - Explicação da Função perguntar_openrouter
+- 5:25 - Explicação das Funções de Pesquisa
+- 6:49 - Loop Final e Encerramento
 
 ## 8. Créditos e Licença
 
