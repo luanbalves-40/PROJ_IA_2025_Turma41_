@@ -57,6 +57,8 @@ PROJ_IA_2025_Turma41_
 
 # 6. Resultados
 
+![IMG-20251126-WA0004](https://github.com/user-attachments/assets/08fbc48f-933b-4d76-95de-b691807241f1)
+
 ![IMG-20251126-WA0000](https://github.com/user-attachments/assets/6c696018-c21f-4fb2-b512-8835da115f76)
 
 ![IMG-20251126-WA0001](https://github.com/user-attachments/assets/747b6502-8e69-4603-ae72-32eb2e231ef7)
@@ -65,7 +67,7 @@ PROJ_IA_2025_Turma41_
 
 ![IMG-20251126-WA0003](https://github.com/user-attachments/assets/80816f62-353b-4adc-912d-5a451071d5f5)
 
-![IMG-20251126-WA0004](https://github.com/user-attachments/assets/7e8f5f62-65a7-4057-84ad-967d51942d1e)
+
 
 ## 7. Decisões Técnicas
 
