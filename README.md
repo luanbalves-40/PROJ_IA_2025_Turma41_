@@ -47,19 +47,13 @@ o usuário precisa, no menor tempo possível e com o máximo de eficiência.
 ---
 
 ## 4. Estrutura do Projeto
-PROJ_IA_2025_TurmaX_GrupoYY/
+PROJ_IA_2025_Turma41_
+├─ .gitignore
+├─ Codígo.ipynb
 ├─ README.md
 ├─ requirements.txt
-├─ src/ (config.py, data_prep.py, model.py, train.py, evaluate.py, main.py)
-├─ notebooks/ (exploratory e experiments)
-├─ data/ (raw, processed, README_DATA.md)
-├─ models/ (artefatos e metadata)
-├─ reports/ (figures, tables)
-├─ tests/ (teste de fumaça)
-└─ docs/ (ARCHITECTURE.md, ROADMAP.md)
----
 
-## 5. Como Reproduzir
+---
 
 ### 5.1 Ambiente
 ```bash
