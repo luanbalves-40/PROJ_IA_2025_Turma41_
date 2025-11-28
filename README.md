@@ -100,21 +100,21 @@ Link: https://youtu.be/xsYj-2MXh6I
 ## 8. Créditos e Licença
 
 Fontes de dados/código de terceiros com links
-Modelo de Linguagem:
-https://openrouter.ai/mistralai/mistral-nemo
+- Modelo de Linguagem:
+- https://openrouter.ai/mistralai/mistral-nemo
 
 Bibliotecas:
-MatPlotLib: https://matplotlib.org/
-Requests: HTTP for Humans™: https://requests.readthedocs.io/en/latest/
-DDGS: https://pypi.org/project/ddgs/
+- MatPlotLib: https://matplotlib.org/
+- Requests: HTTP for Humans™: https://requests.readthedocs.io/en/latest/
+- DDGS: https://pypi.org/project/ddgs/
 
-Licença escolhida: MIT
+## Licença escolhida: MIT
 
-Autores
-Ayrton Senna Cabani Bastos; RA: 2225109182
+## Autores
+- Ayrton Senna Cabani Bastos; RA: 2225109182
 
-Giovanne Furtado Fischer; RA: 2225106324
+- Giovanne Furtado Fischer; RA: 2225106324
 
-Luan Benedito Alves; RA: 2225202024
+- Luan Benedito Alves; RA: 2225202024
 
-Malcolm Agostinho Mendes; RA: 2225107711
+- Malcolm Agostinho Mendes; RA: 2225107711
