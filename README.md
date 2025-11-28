@@ -57,7 +57,7 @@ PROJ_IA_2025_Turma41_
 
 # 6. Resultados
 
-[IMG-20251126-WA0000](https://github.com/user-attachments/assets/6c696018-c21f-4fb2-b512-8835da115f76)
+![IMG-20251126-WA0000](https://github.com/user-attachments/assets/6c696018-c21f-4fb2-b512-8835da115f76)
 
 ![IMG-20251126-WA0001](https://github.com/user-attachments/assets/747b6502-8e69-4603-ae72-32eb2e231ef7)
 
