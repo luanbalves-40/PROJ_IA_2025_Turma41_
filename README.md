@@ -55,16 +55,10 @@ PROJ_IA_2025_Turma41_
 
 ---
 
-### 5.1 Ambiente
-```bash
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# Linux/Mac: source .venv/bin/activate
-pip install -r requirements.txt
+# 6. Resultados
 
-## 6. Resultados
-
-Métricas (tabela curta): cole aqui ou aponte para reports/tables/.
+Métric![IMG-20251126-WA0000](https://github.com/user-attachments/assets/6c696018-c21f-4fb2-b512-8835da115f76)
+as (tabela curta): cole aqui ou aponte para reports/tables/.
 
 Gráficos (imagens): inclua 3–5 principais (matriz de confusão, ROC/PR, curva de aprendizado, resíduos etc.).
 
