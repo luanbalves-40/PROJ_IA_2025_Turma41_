@@ -185,7 +185,7 @@ Crie um arquivo `.env` (opcional) ou coloque diretamente no código.
 Abra o arquivo:
 
 ```
-Código.ipynb
+projeto_ia.ipynb
 ```
 
 Pode ser executado em:
