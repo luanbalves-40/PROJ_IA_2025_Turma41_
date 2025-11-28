@@ -3,8 +3,8 @@
 > Turma: 41 | Curso: Ciência da computação | Período: Noturno | Ano: 2025
 
 ## Equipe e Papéis
-| Integrante | RA | Papel principal | Principais entregas (commits/arquivos) |
-|------------|----|------------------|----------------------------------------|
+| Integrante | RA | Papel principal | 
+|------------|----|------------------|
 | Ayrton Senna Cabani Bastos | 2225109182 | Consultoria e programação
 | Giovanne Furtado Fischer | 2225106324 | Gerência e programação 
 | Luan Benedito Alves | 2225202024 | Documentação e README.md
