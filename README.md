@@ -74,7 +74,7 @@ PROJ_IA_2025_Turma41_
 
 
 
-## 7. Decisões Técnicas
+## 6. Decisões Técnicas
 
 Pré-processamento (nulos, outliers, normalização, features).
 
@@ -82,13 +82,13 @@ Arquitetura/hiperparâmetros (se DL, detalhe camadas; se IA clássica, heurísti
 
 Limitações conhecidas e possíveis melhorias.
 
-## 8. Execução do Vídeo (YouTube — não listado)
+## 7. Execução do Vídeo (YouTube — não listado)
 
 Link: (colar aqui)
 
 Roteiro seguido: problema → dados → IA → execução ao vivo → resultados → conclusão.
 
-## 9. Créditos e Licença
+## 8. Créditos e Licença
 
 Fontes de dados/código de terceiros com links.
 
@@ -96,8 +96,3 @@ Licença escolhida (ex.: MIT).
 
 Autores (nomes e RAs).
 
-## 10. Changelog (opcional)
-
-v1.0 — Entrega final.
-
-v0.9 — Ajustes de avaliação e gráficos.
