@@ -10,6 +10,27 @@
 | Luan Benedito Alves | 2225202024 | Documentação e README.md
 | Malcolm Agostinho Mendes | 2225107711 | Edição de video
 
+
+Perfeito!
+Aqui está a **versão completa com links de navegação**, no formato clássico usado em READMEs do GitHub.
+
+Você pode colar **no início do README**, logo abaixo do título.
+
+---
+
+#  **Índice de Navegação**
+
+Use os links abaixo para navegar entre as seções:
+
+2. [Abordagem de IA](#2-abordagem-de-ia)
+3. [Dados](#3-dados)
+4. [Estrutura do Projeto](#4-estrutura-do-projeto)
+5. [Resultados](#5-resultados)
+6. [Decisões Técnicas](#6-decisões-técnicas)
+7. [Execução do Vídeo](#7-execução-do-vídeo)
+8. [Como Rodar o Projeto](#8-como-rodar-o-projeto)
+9. [Chave de API](#9-sobre-a-chave-de-api-openrouter)
+
 ---
 
 # Solução para pesquisa rápida de receitas
@@ -105,7 +126,124 @@ Limitações conhecidas e possíveis melhorias
 - 5:25 - Explicação das Funções de Pesquisa
 - 6:49 - Loop Final e Encerramento
 
-## 8. Créditos e Licença
+---
+
+# 8. Como Rodar o Projeto
+
+Siga os passos abaixo para executar o projeto localmente:
+
+### **1. Clone o repositório**
+
+```bash
+git clone https://github.com/luanbalves-40/PROJ_IA_2025_Turma41_.git
+cd PROJ_IA_2025_Turma41_
+```
+
+### **2. Crie um ambiente virtual (opcional, mas recomendado)**
+
+```bash
+python -m venv venv
+```
+
+Ative:
+
+* **Windows**
+
+  ```bash
+  venv\Scripts\activate
+  ```
+* **Linux/Mac**
+
+  ```bash
+  source venv/bin/activate
+  ```
+
+### **3. Instale as dependências**
+
+```bash
+pip install -r requirements.txt
+```
+
+>  O arquivo `requirements.txt` contém muitas bibliotecas porque foi gerado automaticamente no ambiente do Google Colab. Para rodar localmente, normalmente apenas **requests**, **ddgs**, **matplotlib** e dependências básicas são necessárias.
+
+---
+
+### **4. Configure sua chave da OpenRouter**
+
+O projeto utiliza a variável:
+
+```python
+OPENROUTER_API_KEY = "sua-chave-aqui"
+```
+
+Crie um arquivo `.env` (opcional) ou coloque diretamente no código.
+
+---
+
+### **5. Execute o notebook**
+
+Abra o arquivo:
+
+```
+Código.ipynb
+```
+
+Pode ser executado em:
+
+* Jupyter Notebook
+* VSCode (extensão Jupyter)
+* Google Colab
+
+---
+
+### **6. Rode a célula principal**
+
+No final do notebook, há o loop de execução:
+
+```python
+pergunta = input("Pergunte ou digite '1' para sair: ")
+resposta = perguntar_openrouter(...)
+print(f'Resposta: {resposta}')
+```
+
+Basta rodar para conversar com o modelo.
+
+---
+
+#  9. Sobre a Chave de API (OpenRouter)
+
+Por motivos de **segurança**, a chave da API **NÃO está incluída** no código-fonte do repositório.
+
+Isso é fundamental para evitar:
+
+* vazamento da chave,
+* uso indevido por terceiros,
+* consumo indevido de créditos.
+
+### Como obter uma chave válida?
+
+Você tem duas opções:
+
+###  **1. Gerar sua própria chave**
+
+Acesse:
+
+[https://openrouter.ai/](https://openrouter.ai/)
+
+Depois, crie uma conta e gere sua própria API KEY.
+
+###  **2. Solicitar a chave usada no projeto**
+
+Se você estiver participando oficialmente do projeto (ex.: aluno ou professor da UNI9), pode solicitar a chave ao **time de desenvolvimento**.
+
+A chave original foi fornecida no **documento PDF oficial do projeto**.
+
+> Recomendação:
+> **Nunca compartilhe sua chave publicamente**, nem faça o commit dela dentro do repositório Git.
+
+---
+
+## 10. Créditos e Licença
 
 Fontes de dados/código de terceiros com links
 - Modelo de Linguagem:
