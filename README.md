@@ -38,11 +38,16 @@ o usuário precisa, no menor tempo possível e com o máximo de eficiência.
 
 ## 3. Dados
 - **Origem**: https://openrouter.ai/mistralai/mistral-nemo:free
-- **Esquema**: liste as colunas (nome, tipo, significado).
-- **Cuidados éticos/privacidade**: se houver.
-- **Tamanho aproximado**: n linhas × m colunas.
 
-> **Importante**: arquivos grandes **não** devem ser versionados; explique em `data/README_DATA.md` como baixar ou gerar.
+ | Coluna                | Tipo           | Significado                                               |
+| --------------------- | -------------- | --------------------------------------------------------- |
+| `mensagem_usuario`    | String         | Pergunta digitada pelo usuário                            |
+| `pesquisa_necessaria` | Boolean/String | Indica se foi preciso pesquisar e qual pesquisa foi feita |
+| `resultado_pesquisa`  | String         | Texto retornado pelo DuckDuckGo (se houver)               |
+| `resposta_modelo`     | String         | Resposta da IA                                            |
+| `tempo_resposta`      | Float          | Tempo gasto para gerar a resposta                         |
+| `timestamp`           | String         | Data/hora da interação                                    |
+
 
 ---
 
@@ -55,7 +60,7 @@ PROJ_IA_2025_Turma41_
 
 ---
 
-# 6. Resultados
+# 5. Resultados
 
 ![IMG-20251126-WA0004](https://github.com/user-attachments/assets/08fbc48f-933b-4d76-95de-b691807241f1)
 
