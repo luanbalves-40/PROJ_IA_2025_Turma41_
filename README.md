@@ -52,11 +52,13 @@ o usuário precisa, no menor tempo possível e com o máximo de eficiência.
 ---
 
 ## 4. Estrutura do Projeto
+```
 PROJ_IA_2025_Turma41_
-├─ .gitignore
-├─ Codígo.ipynb
-├─ README.md
-├─ requirements.txt
+├── .gitignore
+├── Codigo.ipynb
+├── README.md
+└── requirements.txt
+```
 
 ---
 
