@@ -76,23 +76,45 @@ PROJ_IA_2025_Turma41_
 
 ## 6. Decisões Técnicas
 
-Pré-processamento (nulos, outliers, normalização, features).
+Pré-processamento
+- Limpeza e Padronização básicas
 
-Arquitetura/hiperparâmetros (se DL, detalhe camadas; se IA clássica, heurística/regras).
+Arquitetura/hiperparâmetros
+- Interface (aplicativo ou API que recebe a pergunta do usuário).
 
-Limitações conhecidas e possíveis melhorias.
+- Módulo de decisão (verifica se deve usar resposta interna ou realizar busca na web).
 
-## 7. Execução do Vídeo (YouTube — não listado)
+- Chamadas ao LLM Mistral NeMo para geração da resposta.
 
-Link: (colar aqui)
+- Pós-processamento do texto gerado (formatar, corrigir pequenos erros).
 
-Roteiro seguido: problema → dados → IA → execução ao vivo → resultados → conclusão.
+Limitações conhecidas e possíveis melhorias
+- As instruções para o modelo poderiam ser mais claras, impedindo erros;
+- Uma possível limpeza do histórico poderia tornar possível e prático conversas longas e mais complexas;
+- Uma forma do modelo se lembrar das pesquisas poderia evitar pesquisas repetidas.
+
+## 7. Execução do Vídeo
+
+Link: https://youtu.be/xsYj-2MXh6I
 
 ## 8. Créditos e Licença
 
-Fontes de dados/código de terceiros com links.
+Fontes de dados/código de terceiros com links
+Modelo de Linguagem:
+https://openrouter.ai/mistralai/mistral-nemo
 
-Licença escolhida (ex.: MIT).
+Bibliotecas:
+MatPlotLib: https://matplotlib.org/
+Requests: HTTP for Humans™: https://requests.readthedocs.io/en/latest/
+DDGS: https://pypi.org/project/ddgs/
 
-Autores (nomes e RAs).
+Licença escolhida: MIT
 
+Autores
+Ayrton Senna Cabani Bastos; RA: 2225109182
+
+Giovanne Furtado Fischer; RA: 2225106324
+
+Luan Benedito Alves; RA: 2225202024
+
+Malcolm Agostinho Mendes; RA: 2225107711
